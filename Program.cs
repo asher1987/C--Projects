@@ -1,7 +1,5 @@
 ﻿using System;
-namespace Humans{
-    class LifeHours {
-        public static void CourseHours() {
+
 
 //Create a simple program that calculates the number of life hours this class consumes.
 // Have the program ask the user the following:
@@ -78,4 +76,3 @@ lifeHours = classHours * classWeeks * classPeople ;
         Console.WriteLine("That is an invalid response. Please type 'Yes' to continue.");
     }
 
-}
