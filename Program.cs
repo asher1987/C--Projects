@@ -29,7 +29,7 @@ static void UserInput(string[] args)
      {
         Console.WriteLine("That is an invalid response. Make sure you are only using letters in your respone. Example: Intro to Programming.");
      }
-     
+
     Console.WriteLine("Thank you. What is the name of your course?");
     courseName = Console.ReadLine();
      if (courseName == "") {
@@ -70,5 +70,11 @@ lifeHours = classHours * classWeeks * classPeople ;
     Console.WriteLine("Are you ready to compute your life hours? Please type 'Yes' to continue.");
     if (Console.ReadLine == "Yes") {
         Console.WriteLine($"{lifeHours} is the number of life hours for this course.");
+    
     }
+    else
+    {
+        Console.WriteLine("That is an invalid response. Please type 'Yes' to continue.");
+    }
+
 }
