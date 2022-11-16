@@ -70,7 +70,6 @@ lifeHours = classHours * classWeeks * classPeople ;
     Console.WriteLine("Are you ready to compute your life hours? Please type 'Yes' to continue.");
     if (Console.ReadLine == "Yes") {
         Console.WriteLine($"{lifeHours} is the number of life hours for this course.");
-    
     }
     else
     {
