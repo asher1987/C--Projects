@@ -1,4 +1,7 @@
 ﻿using System;
+namespace Humans{
+    class LifeHours {
+        public static void CourseHours() {
 
 //Create a simple program that calculates the number of life hours this class consumes.
 // Have the program ask the user the following:
@@ -8,8 +11,7 @@
 //How many hours per week does your class meet? classHours
 //How many students and instructors are in the class? classPeople
 
-static void UserInput(string[] args) 
-{
+
     //inputs that should have a string
     string userName, input;
     string courseName, input;
