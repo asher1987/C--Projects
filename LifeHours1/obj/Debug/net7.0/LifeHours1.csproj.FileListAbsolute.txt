@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/LifeHours1/bin/Debug/net7.0/LifeHours1
+/Users/admin/C# Projects/LifeHours1/bin/Debug/net7.0/LifeHours1.deps.json
+/Users/admin/C# Projects/LifeHours1/bin/Debug/net7.0/LifeHours1.runtimeconfig.json
+/Users/admin/C# Projects/LifeHours1/bin/Debug/net7.0/LifeHours1.dll
+/Users/admin/C# Projects/LifeHours1/bin/Debug/net7.0/LifeHours1.pdb
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.AssemblyInfo.cs
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.dll
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/refint/LifeHours1.dll
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.pdb
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/LifeHours1.genruntimeconfig.cache
+/Users/admin/C# Projects/LifeHours1/obj/Debug/net7.0/ref/LifeHours1.dll
