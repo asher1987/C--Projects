@@ -24,6 +24,7 @@ namespace HumansBrief {
     int classPeople = 0;
     int classHours = 0;
     int classWeeks = 0;
+   
 //Strings
 // ask them their name until the string has something in it
 //if the string is empty, print an error message 
@@ -43,14 +44,30 @@ namespace HumansBrief {
     }  
  
  //Ints
-// Getting the duration in weeks
-
-    while (classPeople > 1) {
-        Console.WriteLine("How many people, including instructors, are in your course?");
-        int.TryParse(Console.ReadLine(), out classPeople);
-            Console.WriteLine("This is not a valid response. Please try again.");
-            int.TryParse(Console.ReadLine(),out classPeople );
+// Number of people
+         Console.WriteLine("How many people, including instructors, are in your course?");
+        if (int.TryParse(Console.ReadLine(), out classPeople));
+        else
+        {
+            Console.WriteLine("You must enter a number");
+        }
+//Number of hours per week
+        Console.WriteLine("How many hours per week does your class meet for?");
+        if (int.TryParse(Console.ReadLine(), out classHours));
+        else
+        {
+            Console.WriteLine("You must enter a number");
+        }
+// Number of weeks
+            Console.WriteLine("How many weeks is your class?");
+        if (int.TryParse(Console.ReadLine(), out classWeeks));
+        else
+        {
+            Console.WriteLine("You must enter a number");
+        }
+    int lifeHours = classHours * classPeople * classWeeks;
+    Console.WriteLine($"Thank you for your input. Your life hours for {courseName} are {lifeHours}.");
     }
         }
     }
-}
+   
