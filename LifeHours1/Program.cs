@@ -65,8 +65,10 @@ namespace HumansBrief {
         {
             Console.WriteLine("You must enter a number");
         }
+
+// Calculated Life Hours
     int lifeHours = classHours * classPeople * classWeeks;
-    Console.WriteLine($"Thank you for your input. Your life hours for {courseName} are {lifeHours}.");
+    Console.WriteLine($"Thank you, {userName} for your input. Your life hours for {courseName} are {lifeHours}.");
     }
         }
     }
