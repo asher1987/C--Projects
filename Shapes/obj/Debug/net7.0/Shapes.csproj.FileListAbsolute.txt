@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Shapes/bin/Debug/net7.0/Shapes
+/Users/admin/C# Projects/Shapes/bin/Debug/net7.0/Shapes.deps.json
+/Users/admin/C# Projects/Shapes/bin/Debug/net7.0/Shapes.runtimeconfig.json
+/Users/admin/C# Projects/Shapes/bin/Debug/net7.0/Shapes.dll
+/Users/admin/C# Projects/Shapes/bin/Debug/net7.0/Shapes.pdb
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.AssemblyInfo.cs
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.dll
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/refint/Shapes.dll
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.pdb
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/Shapes.genruntimeconfig.cache
+/Users/admin/C# Projects/Shapes/obj/Debug/net7.0/ref/Shapes.dll

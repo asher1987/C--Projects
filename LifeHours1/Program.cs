@@ -1,5 +1,11 @@
 ﻿using System;
 
+namespace HumansBrief {
+    class LifeHours {
+        public static void Main () {
+
+        
+
 
 //Create a simple program that calculates the number of life hours this class consumes.
 // Have the program ask the user the following:
@@ -11,68 +17,40 @@
 
 
     //inputs that should have a string
-    string userName, input;
-    string courseName, input;
+    string userName = "";
+    string courseName = "";
 
     //inputs that should have an int
-    int classPeople;
-    int classHours;
-    int classWeeks;
-
+    int classPeople = 0;
+    int classHours = 0;
+    int classWeeks = 0;
 //Strings
-    Console.WriteLine("Hello. What is your first name?");
-    userName = Console.ReadLine();
-    if (userName == "") {
-        Console.WriteLine($"This is not a valid response. Please try again.");
-    }
-    else
-     {
-        Console.WriteLine("That is an invalid response. Make sure you are only using letters in your respone. Example: Intro to Programming.");
-     }
-
-    Console.WriteLine("Thank you. What is the name of your course?");
-    courseName = Console.ReadLine();
-     if (courseName == "") {
-        Console.WriteLine($"This is not a valid response. Please try again."); 
-     }
-     else
-     {
-        Console.WriteLine("That is an invalid response. Make sure you are only using letters in your respone. Example: Intro to Programming.");
-     }
-
-//Ints
-    Console.WriteLine("How many people, including instructors, are in your course?");
-    input = Console.ReadLine();
-    classPeople = Convert.ToInt32(input);
-
-    Console.WriteLine("How many hours per week does your class meet?");
-    classHours = Convert.ToInt32(input);
-    if (classHours > 1 ) {
-        Console.WriteLine("That is an invalid response. Please try again.");
-    }
-    else
-    {
-        Console.WriteLine("That is an invalid response. Make sure you are only inputting integers. Example: 5.");
-    }
-    Console.WriteLine("How many weeks does your class meet?");
-    classWeeks = Convert.ToInt32(input);
-    if (classWeeks > 1 ) {
-        Console.WriteLine("That is an invalid response. Please try again.");
+// ask them their name until the string has something in it
+//if the string is empty, print an error message 
+    while (userName == "") {
+        Console.WriteLine("Hello. What is your first name?");
+        userName = Console.ReadLine();
+        if (userName == "") {
+            Console.WriteLine($"This is not a valid response. Please try again.");
         }
-    else
-    {
-        Console.WriteLine("That is an invalid response. Make sure you are only inputting integers. Example: 5.");
-    }
+    }  
+    while (courseName == "") {
+        Console.WriteLine("What is the name of your class?");
+        courseName = Console.ReadLine();
+        if (courseName == "") {
+            Console.WriteLine($"This is not a valid response. Please try again.");
+        }
+    }  
+ 
+ //Ints
+// Getting the duration in weeks
 
-//doing the work
-lifeHours = classHours * classWeeks * classPeople ;
-    Console.WriteLine("Thank you for your responses. Calculating LifeHours.");
-    Console.WriteLine("Are you ready to compute your life hours? Please type 'Yes' to continue.");
-    if (Console.ReadLine == "Yes") {
-        Console.WriteLine($"{lifeHours} is the number of life hours for this course.");
+    while (classPeople > 1) {
+        Console.WriteLine("How many people, including instructors, are in your course?");
+        int.TryParse(Console.ReadLine(), out classPeople);
+            Console.WriteLine("This is not a valid response. Please try again.");
+            int.TryParse(Console.ReadLine(),out classPeople );
     }
-    else
-    {
-        Console.WriteLine("That is an invalid response. Please type 'Yes' to continue.");
+        }
     }
-
+}
