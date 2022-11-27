@@ -15,6 +15,8 @@ namespace Shape3D
         public abstract double GetVolume(); //method
     }
 
+
+    
     //First Shape: Cuboid 
     class Cuboid : Shapes3D
     {
@@ -72,41 +74,53 @@ namespace Shape3D
             return side * side * side;
         }
     }
- // Third Shape: Cylinder 
-    
-    class Cylinder : Shapes3D
-    {
-        public double radius;
+   
 
-        public Cylinder (double radius) {
-            this.radius = radius;
-        }
+    // Third Shape: Cylinder
+
+    class Cylinder:Shapes3D {
+        public double radius;
         public double height;
 
-        public Cylinder (double height) {
+        public Cylinder(double radius, double height) {
+            this.radius = radius;
             this.height = height;
         }
     // Surface area of Cylinder
     // 2 * PI * Radius * (Height + Radius)
 
-
-
+        public override double GetSurfaceArea() {
+            return 2 * Math.PI * this.radius * (this.height + this.radius);
+        }
      //Volume of a Cylinder
     // Math.PI * (Radius * Radius) * Height
 
+        public override double GetVolume () {
+            return Math.PI * (this.radius* this.radius) * this.height;
+        }
 
     }
 
-
-  
-            
-}
-// Fourth Shape: Sphere
+    // Fourth Shape: Sphere
      
-           
+         class Sphere : Shapes3D 
+         {
+            public double radius;
 
-//Volue of Sphere
-// 4/3 * PI * radius * radius * radius 
+            public Sphere( double radius ) {
+                this.radius = radius;
+            }
+    //Volue of Sphere
+    // 4/3 * PI * radius * radius * radius 
+        public override double GetVolume() {
+            return 4/3 * Math.PI * this.radius *this.radius;
+        }
+
+        public override double GetSurfaceArea(){
+            return 4 * Math.PI * this.radius * this.radius;
+        }
+         }  
+
           
-
+}
      
