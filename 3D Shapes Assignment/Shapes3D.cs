@@ -24,7 +24,7 @@ namespace Shape3D
         public double width;
         public double height;
 
-        public Cuboid(double width, double depth, double height)
+        public Cuboid(double depth, double width, double height)
         {
             this.depth = width;
             this.height = height;
