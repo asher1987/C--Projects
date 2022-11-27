@@ -56,8 +56,6 @@ namespace HumansBrief {
         if (int.TryParse(Console.ReadLine(), out classHours));
         else
         {
-            Console.WriteLine("You must enter a number");
-        }
 // Number of weeks
             Console.WriteLine("How many weeks is your class?");
         if (int.TryParse(Console.ReadLine(), out classWeeks));
@@ -72,4 +70,4 @@ namespace HumansBrief {
     }
         }
     }
-   
+}  
