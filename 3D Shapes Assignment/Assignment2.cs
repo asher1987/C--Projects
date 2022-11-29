@@ -1,4 +1,4 @@
-using Shape3D;
+using Ashley.Shape3D;
 
 namespace Solver {
     static class Solver {
@@ -45,12 +45,15 @@ namespace Solver {
 
                 
             
-             if (lineData[1] == "area") {
-          total += myShape.GetSurfaceArea();
-        } else if (lineData[1] == "volume") {
-          total += myShape.GetVolume();
-        }
-            Console.WriteLine($"Your total measurements are {total:0,0.00}");
+                if (lineData[1] == "area") {
+                    total += myShape.GetSurfaceArea();
+                } else if (lineData[1] == "volume") {
+                    total += myShape.GetVolume();
+
+
+                 }
+
+                Console.WriteLine($"Your total measurements are {total:0,0.00}");
             
         }
 

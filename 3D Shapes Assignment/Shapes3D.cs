@@ -7,7 +7,7 @@
 //Cylinder
 //Sphere
 
-namespace Shape3D
+namespace Ashley.Shape3D
 {
     abstract class Shapes3D
     { //abstract class
@@ -15,8 +15,6 @@ namespace Shape3D
         public abstract double GetVolume(); //method
     }
 
-
-    
     //First Shape: Cuboid 
     class Cuboid : Shapes3D
     {
@@ -26,7 +24,7 @@ namespace Shape3D
 
         public Cuboid(double depth, double width, double height)
         {
-            this.depth = width;
+            this.width = width;
             this.height = height;
             this.depth = depth;
 
@@ -37,8 +35,7 @@ namespace Shape3D
         override public double GetSurfaceArea()
         {
 
-            return 2 * (this.depth * this.width + this.depth * this.height + this.height * this.width);
-
+            return (2*( this.depth *this.width) + 2*(this.width* this.height) + 2*(this.height*this.depth)); 
         }
 
         //Volume of a Cuboid
@@ -51,30 +48,13 @@ namespace Shape3D
     }
 
     // Second Shape: Cube 
-    class Cube : Shapes3D
-    {
-        public double side;
-
-        public Cube(double side)
-        {
-            this.side = side;
-        }
-
-        //Surface area of a cube 
-        // edge * edge * edge
-        override public double GetSurfaceArea()
-        {
-            return this.side * this.side * this.side;
-        }
-
-        //Volume of a cube
-        // side * side * side
-        override public double GetVolume()
-        {
-            return side * side * side;
-        }
+    // This will inherit from Cuboid
+    class Cube : Cuboid {
+        public Cube(double sideLength) : base(
+            width: sideLength, 
+            height: sideLength, 
+            depth: sideLength) {}
     }
-   
 
     // Third Shape: Cylinder
 
@@ -103,28 +83,25 @@ namespace Shape3D
 
     }
 
-    // Fourth Shape: Sphere
-     
+        // Fourth Shape: Sphere
          class Sphere : Shapes3D 
-         {
+        {
             public double radius;
 
             public Sphere( double radius ) {
                 this.radius = radius;
             }
-    //Volue of Sphere
-    // 4/3 * PI * radius * radius * radius 
-        public override double GetVolume() 
-        {
-            return 4/3 * Math.PI * this.radius *this.radius;
-        }
+        //Volue of Sphere
+        // 4/3 * PI * radius * radius * radius 
+            public override double GetVolume() 
+            {
+                return 4/3 * Math.PI * Math.Pow(this.radius, 3.00);
+            }
 
-        public override double GetSurfaceArea()
-        {
-            return 4 * Math.PI * this.radius * this.radius;
-        }
-         }  
-
-          
+            public override double GetSurfaceArea()
+            {
+                return 4 * Math.PI * Math.Pow(this.radius, 2.00);
+            }
+        }          
 }
      
