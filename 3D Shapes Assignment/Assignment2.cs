@@ -1,15 +1,20 @@
-using Ashley.Shape3D;
+using Ashley.Shapes3D;
 
 namespace Solver {
     static class Solver {
         public static void Main(string[] args) {
+            Tester.Tester.Test();
+            return; //delete line 6 and 7 after the code runs
+
+
+
             string filepath = args[0];
             double total = 0;
 
             foreach (string line in System.IO.File.ReadLines(filepath)) {
                 string[] lineData = line.Split(',');
 
-                Shapes3D myShape;
+                Shape3D myShape;
 
                 switch (lineData[0]) {
                     case "cuboid":
@@ -53,11 +58,11 @@ namespace Solver {
 
                  }
 
-                Console.WriteLine($"Your total measurements are {total:0,0.00}");
             
-        }
+            }
+        Console.WriteLine($"Your total measurements are {total:0,0.00}");
 
-    }
+        }
   
- }
+    }
 }

@@ -1,4 +1,4 @@
-//create a library of 3D shapes called `Shapes3D`. 
+//create a library of 3D shapes called `Shape3D`. 
 //Your library should include an abstract class `Shape3D` that defines methods 
 //`GetSurfaceArea` and `GetVolume`.
 //Shapes:
@@ -7,16 +7,16 @@
 //Cylinder
 //Sphere
 
-namespace Ashley.Shape3D
+namespace Ashley.Shapes3D
 {
-    abstract class Shapes3D
+    public abstract class Shape3D
     { //abstract class
         public abstract double GetSurfaceArea(); //method
         public abstract double GetVolume(); //method
     }
 
     //First Shape: Cuboid 
-    class Cuboid : Shapes3D
+    class Cuboid : Shape3D
     {
         public double depth;
         public double width;
@@ -58,7 +58,7 @@ namespace Ashley.Shape3D
 
     // Third Shape: Cylinder
 
-    class Cylinder:Shapes3D {
+    class Cylinder:Shape3D {
         public double radius;
         public double height;
 
@@ -84,7 +84,7 @@ namespace Ashley.Shape3D
     }
 
         // Fourth Shape: Sphere
-         class Sphere : Shapes3D 
+         class Sphere : Shape3D 
         {
             public double radius;
 
@@ -95,7 +95,7 @@ namespace Ashley.Shape3D
         // 4/3 * PI * radius * radius * radius 
             public override double GetVolume() 
             {
-                return 4/3 * Math.PI * Math.Pow(this.radius, 3.00);
+                return (4.0 / 3 * Math.PI * radius * radius*radius);
             }
 
             public override double GetSurfaceArea()
