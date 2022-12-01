@@ -1,10 +1,10 @@
-using Ashley.Shapes3D;
+using Shapes3D;
 
 namespace Solver {
     static class Solver {
         public static void Main(string[] args) {
-            Tester.Tester.Test();
-            return; //delete line 6 and 7 after the code runs
+            //Tester.Tester.Test();
+            //return; 
 
 
 
