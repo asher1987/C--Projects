@@ -39,24 +39,32 @@ namespace Solver {
                     break;
 
                     case "cube" :
-                    myShape = new Cube(
-                        Convert.ToDouble(lineData[2])
+                        myShape = new Cube(
+                            Convert.ToDouble(lineData[2])
+                    );
+                    break;
+
+                    case "Prism":
+                        myShape = new Prism(
+                            Convert.ToDouble(lineData[2]),
+                            Convert.ToInt32(lineData[3]),
+                            Convert.ToDouble(lineData[4])
                     );
                     break;
 
                     default:
                         throw new FormatException($"Unable to parse shape from name {lineData[0]}");
-                } // switch
+                 
 
-                
-            
+                }
+
                 if (lineData[1] == "area") {
                     total += myShape.GetSurfaceArea();
                 } else if (lineData[1] == "volume") {
                     total += myShape.GetVolume();
 
 
-                 }
+                }
 
             
             }

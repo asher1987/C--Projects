@@ -125,7 +125,13 @@ namespace Shapes3D
                 return (baseArea * 2) + sideArea;
             }
             //volume of a prism 
-            
+            //area of the polygon * height
+            public override double GetVolume() {
+                double height = this.height;
+                double baseArea = this.myBase.GetArea();
+
+                return( baseArea * this.height);
+            }
             
         }
      }
