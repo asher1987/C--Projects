@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/ashleysHair/bin/Debug/net7.0/ashleysHair
+/Users/admin/C# Projects/ashleysHair/bin/Debug/net7.0/ashleysHair.deps.json
+/Users/admin/C# Projects/ashleysHair/bin/Debug/net7.0/ashleysHair.runtimeconfig.json
+/Users/admin/C# Projects/ashleysHair/bin/Debug/net7.0/ashleysHair.dll
+/Users/admin/C# Projects/ashleysHair/bin/Debug/net7.0/ashleysHair.pdb
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.AssemblyInfo.cs
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.dll
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/refint/ashleysHair.dll
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.pdb
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ashleysHair.genruntimeconfig.cache
+/Users/admin/C# Projects/ashleysHair/obj/Debug/net7.0/ref/ashleysHair.dll

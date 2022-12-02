@@ -7,7 +7,9 @@
 //Cylinder
 //Sphere
 
-namespace Ashley.Shapes3D
+using Shapes;
+
+namespace Shapes3D
 {
     public abstract class Shape3D
     { //abstract class
@@ -103,5 +105,27 @@ namespace Ashley.Shapes3D
                 return 4 * Math.PI * Math.Pow(this.radius, 2.00);
             }
         }          
-}
-     
+
+        //5th shape: Prisim 
+
+        class Prism : Shape3D {
+        //double sideLength, int faces, double height
+        
+            public Polygon myBase;
+            public double height;
+
+            public Prism(double sideLength, int faces, double height ) {
+                this.myBase = new Polygon(sideLength, faces);
+                this.height = height;
+        }
+            public override double GetSurfaceArea () {
+                double baseArea= this.myBase.GetArea();
+                double sideArea = this.myBase.GetPerimeter() * this.height;
+
+                return (baseArea * 2) + sideArea;
+            }
+            //volume of a prism 
+            
+            
+        }
+     }

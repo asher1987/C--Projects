@@ -1,4 +1,4 @@
-using Ashley.Shapes3D;
+using Shapes3D;
 
 namespace Tester {
     public class Tester {
