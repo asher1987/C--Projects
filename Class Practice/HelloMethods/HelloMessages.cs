@@ -14,7 +14,7 @@ namespace HelloMethods
             }
             else if (lang.Equals("la"))
             {
-                return "salve mundi";
+                return "Salve mundi";
             }
             else
             {

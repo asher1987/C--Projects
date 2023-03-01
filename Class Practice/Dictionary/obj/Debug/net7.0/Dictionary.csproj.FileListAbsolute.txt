@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
