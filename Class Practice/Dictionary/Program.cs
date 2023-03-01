@@ -37,6 +37,7 @@ namespace DictionaryGradebook
 
             foreach (KeyValuePair<string, double> student in students)
             {
+                Console.WriteLine(student.Key + " (" + student.Value + ")");
                 sum += student.Value;
             }
 

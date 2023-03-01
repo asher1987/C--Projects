@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/C# Projects/Class Practice/Dictionary/Dictionary.csproj",
-      "projectName": "Dictionary",
-      "projectPath": "/Users/admin/C# Projects/Class Practice/Dictionary/Dictionary.csproj",
+      "projectUniqueName": "/Users/admin/C# Projects/Class Practice/Dictionary/DictionaryGrade.csproj",
+      "projectName": "DictionaryGrade",
+      "projectPath": "/Users/admin/C# Projects/Class Practice/Dictionary/DictionaryGrade.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
       "outputPath": "/Users/admin/C# Projects/Class Practice/Dictionary/obj/",
       "projectStyle": "PackageReference",

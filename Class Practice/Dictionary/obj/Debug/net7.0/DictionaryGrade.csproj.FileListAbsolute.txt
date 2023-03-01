@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/DictionaryGrade
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/DictionaryGrade.deps.json
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/DictionaryGrade.runtimeconfig.json
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/DictionaryGrade.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/bin/Debug/net7.0/DictionaryGrade.pdb
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/refint/DictionaryGrade.dll
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.pdb
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/DictionaryGrade.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Practice/Dictionary/obj/Debug/net7.0/ref/DictionaryGrade.dll
