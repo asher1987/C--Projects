@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Practice/HelloMethods/bin/Debug/net7.0/HelloMethods
+/Users/admin/C# Projects/Class Practice/HelloMethods/bin/Debug/net7.0/HelloMethods.deps.json
+/Users/admin/C# Projects/Class Practice/HelloMethods/bin/Debug/net7.0/HelloMethods.runtimeconfig.json
+/Users/admin/C# Projects/Class Practice/HelloMethods/bin/Debug/net7.0/HelloMethods.dll
+/Users/admin/C# Projects/Class Practice/HelloMethods/bin/Debug/net7.0/HelloMethods.pdb
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.dll
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/refint/HelloMethods.dll
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.pdb
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/HelloMethods.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Practice/HelloMethods/obj/Debug/net7.0/ref/HelloMethods.dll

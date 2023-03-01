@@ -1,0 +1,27 @@
+Engine ID,Engine Name,Cylinders,Engine size (L),Horsepower (HP),Horsepower (rpm),Valves,Cam type,Drive type,Transmission,Engine type,City MPG,Highway MPG,Weight (lbs)
+1,I6_230_17/25 MPG,I6,3,230,6500,24,Double overhead cam (DOHC),all wheel drive,6-speed manual,gas,17,25,249
+2,I6_300_17/26 MPG,I6,3,300,5800,24,Double overhead cam (DOHC),rear wheel drive,6-speed manual,gas,17,26,249
+3,I6_184_18/27 MPG,I6,3,184,6000,24,Double overhead cam (DOHC),rear wheel drive,5-speed manual,gas,18,27,249
+4,V6_290_19/24 MPG,V6,3,290,6500,24,Double overhead cam (DOHC),rear wheel drive,10-speed shiftable automatic,flex-fuel (FFV),19,24,249
+5,V6_290_19/22 MPG,V6,3,290,6500,24,Double overhead cam (DOHC),four wheel drive,10-speed shiftable automatic,flex-fuel (FFV),19,22,249
+6,V8_400_16/22 MPG,V8,5,400,6000,32,Double overhead cam (DOHC),four wheel drive,10-speed shiftable automatic,flex-fuel (FFV),16,22,415
+7,V6_325_20/26 MPG,V6,3,325,5000,24,Double overhead cam (DOHC),rear wheel drive,10-speed shiftable automatic,gas,20,26,249
+8,V6_290_19/25 MPG,V6,3,290,6500,24,Double overhead cam (DOHC),rear wheel drive,6-speed shiftable automatic,gas,19,25,249
+9,V6_290_18/23 MPG,V6,3,290,6500,24,Double overhead cam (DOHC),four wheel drive,6-speed shiftable automatic,gas,18,23,249
+10,V8_395_15/21 MPG,V8,5,395,5750,32,Double overhead cam (DOHC),four wheel drive,10-speed shiftable automatic,flex-fuel (FFV),15,21,415
+11,V6_282_18/25 MPG,V6,4,282,6250,24,Double overhead cam (DOHC),rear wheel drive,6-speed shiftable automatic,flex-fuel (FFV),18,25,332
+12,V6_282_17/23 MPG,V6,4,282,6250,24,Double overhead cam (DOHC),four wheel drive,6-speed shiftable automatic,flex-fuel (FFV),17,23,332
+13,V6_325_19/26 MPG,V6,3,325,5750,24,Double overhead cam (DOHC),rear wheel drive,6-speed shiftable automatic,gas,19,26,249
+14,V8_385_15/21 MPG,V8,5,385,5750,32,Double overhead cam (DOHC),four wheel drive,6-speed shiftable automatic,flex-fuel (FFV),15,21,415
+15,V8_248_15/19 MPG,V8,5,248,4750,16,Single overhead cam (SOHC),rear wheel drive,4-speed automatic,gas,15,19,415
+16,V8_248_14/18 MPG,V8,5,248,4750,16,Single overhead cam (SOHC),four wheel drive,4-speed automatic,gas,14,18,415
+17,V8_310_14/20 MPG,V8,5,310,5000,24,Single overhead cam (SOHC),rear wheel drive,6-speed automatic,gas,14,20,415
+18,V8_310_14/18 MPG,V8,5,310,5000,24,Single overhead cam (SOHC),four wheel drive,6-speed automatic,gas,14,18,415
+19,V8_292_15/21 MPG,V8,5,292,5700,24,Single overhead cam (SOHC),rear wheel drive,6-speed automatic,gas,15,21,415
+20,V8_231_12/16 MPG,V8,5,231,4750,16,Single overhead cam (SOHC),four wheel drive,4-speed automatic,gas,12,16,415
+21,V8_300_13/17 MPG,V8,5,300,5000,24,Single overhead cam (SOHC),four wheel drive,4-speed automatic,gas,13,17,415
+22,V8_231_13/18 MPG,V8,5,231,4750,16,Single overhead cam (SOHC),rear wheel drive,4-speed automatic,gas,13,18,415
+23,I4_121_58/53 MPG,I4,2,121,5200,16,Double overhead cam (DOHC),front wheel drive,continuously variable-speed automatic,hybrid,58,53,166
+24,I4_121_54/50 MPG,I4,2,121,5200,16,Double overhead cam (DOHC),front wheel drive,continuously variable-speed automatic,hybrid,54,50,166
+25,I4_134_51/48 MPG,I4,2,134,5200,16,Double overhead cam (DOHC),front wheel drive,continuously variable-speed automatic,hybrid,51,48,166
+26,I4_110_48/45 MPG,I4,2,110,5000,16,Double overhead cam (DOHC),front wheel drive,continuously variable-speed automatic,hybrid,48,45,166

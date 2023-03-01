@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Practice/TempConv2/bin/Debug/net7.0/TempConv2
+/Users/admin/C# Projects/Class Practice/TempConv2/bin/Debug/net7.0/TempConv2.deps.json
+/Users/admin/C# Projects/Class Practice/TempConv2/bin/Debug/net7.0/TempConv2.runtimeconfig.json
+/Users/admin/C# Projects/Class Practice/TempConv2/bin/Debug/net7.0/TempConv2.dll
+/Users/admin/C# Projects/Class Practice/TempConv2/bin/Debug/net7.0/TempConv2.pdb
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.dll
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/refint/TempConv2.dll
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.pdb
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/TempConv2.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Practice/TempConv2/obj/Debug/net7.0/ref/TempConv2.dll
