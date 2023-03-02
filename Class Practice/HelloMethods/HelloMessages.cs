@@ -18,7 +18,7 @@ namespace HelloMethods
             }
             else
             {
-                return "Hello Word";
+                return "Hello World";
             }
         }
     }
