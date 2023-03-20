@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Assignments/counting characters/bin/Debug/net7.0/counting characters
+/Users/admin/C# Projects/Class Assignments/counting characters/bin/Debug/net7.0/counting characters.deps.json
+/Users/admin/C# Projects/Class Assignments/counting characters/bin/Debug/net7.0/counting characters.runtimeconfig.json
+/Users/admin/C# Projects/Class Assignments/counting characters/bin/Debug/net7.0/counting characters.dll
+/Users/admin/C# Projects/Class Assignments/counting characters/bin/Debug/net7.0/counting characters.pdb
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.dll
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/refint/counting characters.dll
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.pdb
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/counting characters.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Assignments/counting characters/obj/Debug/net7.0/ref/counting characters.dll

@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Assignments/Numeric Types/bin/Debug/net7.0/Numeric Types
+/Users/admin/C# Projects/Class Assignments/Numeric Types/bin/Debug/net7.0/Numeric Types.deps.json
+/Users/admin/C# Projects/Class Assignments/Numeric Types/bin/Debug/net7.0/Numeric Types.runtimeconfig.json
+/Users/admin/C# Projects/Class Assignments/Numeric Types/bin/Debug/net7.0/Numeric Types.dll
+/Users/admin/C# Projects/Class Assignments/Numeric Types/bin/Debug/net7.0/Numeric Types.pdb
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.dll
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/refint/Numeric Types.dll
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.pdb
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/Numeric Types.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Assignments/Numeric Types/obj/Debug/net7.0/ref/Numeric Types.dll
