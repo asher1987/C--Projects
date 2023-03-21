@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Assignments/Restaurant/bin/Debug/net7.0/Restaurant
+/Users/admin/C# Projects/Class Assignments/Restaurant/bin/Debug/net7.0/Restaurant.deps.json
+/Users/admin/C# Projects/Class Assignments/Restaurant/bin/Debug/net7.0/Restaurant.runtimeconfig.json
+/Users/admin/C# Projects/Class Assignments/Restaurant/bin/Debug/net7.0/Restaurant.dll
+/Users/admin/C# Projects/Class Assignments/Restaurant/bin/Debug/net7.0/Restaurant.pdb
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.dll
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/refint/Restaurant.dll
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.pdb
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/Restaurant.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Assignments/Restaurant/obj/Debug/net7.0/ref/Restaurant.dll
