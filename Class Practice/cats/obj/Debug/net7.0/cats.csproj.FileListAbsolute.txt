@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Practice/cats/bin/Debug/net7.0/cats
+/Users/admin/C# Projects/Class Practice/cats/bin/Debug/net7.0/cats.deps.json
+/Users/admin/C# Projects/Class Practice/cats/bin/Debug/net7.0/cats.runtimeconfig.json
+/Users/admin/C# Projects/Class Practice/cats/bin/Debug/net7.0/cats.dll
+/Users/admin/C# Projects/Class Practice/cats/bin/Debug/net7.0/cats.pdb
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.dll
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/refint/cats.dll
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.pdb
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/cats.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Practice/cats/obj/Debug/net7.0/ref/cats.dll
