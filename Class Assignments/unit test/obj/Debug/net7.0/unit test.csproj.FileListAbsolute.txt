@@ -1,0 +1,15 @@
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Assignments/unit test/bin/Debug/net7.0/unit test
+/Users/admin/C# Projects/Class Assignments/unit test/bin/Debug/net7.0/unit test.deps.json
+/Users/admin/C# Projects/Class Assignments/unit test/bin/Debug/net7.0/unit test.runtimeconfig.json
+/Users/admin/C# Projects/Class Assignments/unit test/bin/Debug/net7.0/unit test.dll
+/Users/admin/C# Projects/Class Assignments/unit test/bin/Debug/net7.0/unit test.pdb
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.dll
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/refint/unit test.dll
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.pdb
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/unit test.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Assignments/unit test/obj/Debug/net7.0/ref/unit test.dll
