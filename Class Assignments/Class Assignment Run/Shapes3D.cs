@@ -115,30 +115,30 @@ namespace Shapes3D
          class Prism : Shape3D 
      {
         public Polygon baseShape;
-        
+        public double depth;
         public double height;
+        public double width;
 
-        public Prism (double sideLength, int faces, double height) {
-            this.baseShape = new Polygon(sideLength, faces);
-            this.height = height;
+        public Prism (double height, double width, double depth) 
+        {
+            baseShape = new Polygon(height, width);
+            this.depth = depth;
+            this.height = height; 
+            this.width = width; 
+        }
+        public override double GetSurfaceArea() 
+        {
+            // Getting the area of both bases
+            double baseArea = 2 * baseShape.GetSurfaceArea();
+            // Finding the area of the perimeter times the depth
+            double sides = baseShape.GetVolume() * this.depth;
+
+            return sides + baseArea;
         }
 
-        public override double GetSurfaceArea()
+        public override double GetVolume() 
         {
-            double baseArea = this.baseShape.Area();
-            double sideArea = this.baseShape.Perimeter() * this.height;
-            return (baseArea * 2) + sideArea;
-        }
-
-        public override double GetVolume()
-        {
-            double height = this.height;
-            double baseArea = this.baseShape.Area();
-            return (baseArea * this.height);
+            return baseShape.GetSurfaceArea() * this.depth;
         }
     }
 }
-
-
-
-        
