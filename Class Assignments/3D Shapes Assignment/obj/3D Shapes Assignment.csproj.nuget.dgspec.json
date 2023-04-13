@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/C# Projects/3D Shapes Assignment/3D Shapes Assignment.csproj": {}
+    "/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/3D Shapes Assignment.csproj": {}
   },
   "projects": {
-    "/Users/admin/C# Projects/3D Shapes Assignment/3D Shapes Assignment.csproj": {
+    "/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/3D Shapes Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/C# Projects/3D Shapes Assignment/3D Shapes Assignment.csproj",
+        "projectUniqueName": "/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/3D Shapes Assignment.csproj",
         "projectName": "3D Shapes Assignment",
-        "projectPath": "/Users/admin/C# Projects/3D Shapes Assignment/3D Shapes Assignment.csproj",
+        "projectPath": "/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/3D Shapes Assignment.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/C# Projects/3D Shapes Assignment/obj/",
+        "outputPath": "/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"

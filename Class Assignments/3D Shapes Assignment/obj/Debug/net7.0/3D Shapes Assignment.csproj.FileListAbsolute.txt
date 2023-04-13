@@ -13,3 +13,18 @@
 /Users/admin/C# Projects/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.pdb
 /Users/admin/C# Projects/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.genruntimeconfig.cache
 /Users/admin/C# Projects/3D Shapes Assignment/obj/Debug/net7.0/ref/3D Shapes Assignment.dll
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/bin/Debug/net7.0/3D Shapes Assignment
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/bin/Debug/net7.0/3D Shapes Assignment.deps.json
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/bin/Debug/net7.0/3D Shapes Assignment.runtimeconfig.json
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/bin/Debug/net7.0/3D Shapes Assignment.dll
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/bin/Debug/net7.0/3D Shapes Assignment.pdb
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.csproj.AssemblyReference.cache
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.AssemblyInfoInputs.cache
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.AssemblyInfo.cs
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.csproj.CoreCompileInputs.cache
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.dll
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/refint/3D Shapes Assignment.dll
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.pdb
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/3D Shapes Assignment.genruntimeconfig.cache
+/Users/admin/C# Projects/Class Assignments/3D Shapes Assignment/obj/Debug/net7.0/ref/3D Shapes Assignment.dll

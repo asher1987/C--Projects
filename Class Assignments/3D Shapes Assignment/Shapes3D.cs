@@ -33,7 +33,7 @@ namespace Shapes3D
         }
 
         //Surface Area of a Cuboid
-        //(TSA) = 2 (lw + wh + lh) square units
+        //(TSA) = 2 (length *width) + (width *height) + length * height) square units
         override public double GetSurfaceArea()
         {
 
@@ -53,9 +53,9 @@ namespace Shapes3D
     // This will inherit from Cuboid
     class Cube : Cuboid {
         public Cube(double sideLength) : base(
-            width: sideLength, 
-            height: sideLength, 
-            depth: sideLength) {}
+            width : sideLength, 
+            height : sideLength, 
+            depth : sideLength) {}
     }
 
     // Third Shape: Cylinder
@@ -97,7 +97,7 @@ namespace Shapes3D
         // 4/3 * PI * radius * radius * radius 
             public override double GetVolume() 
             {
-                return (4.0 / 3 * Math.PI * radius * radius*radius);
+                return (4.0 / 3 * Math.PI * radius * radius * radius);
             }
 
             public override double GetSurfaceArea()
